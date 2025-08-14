@@ -17,5 +17,8 @@ why do you need hierarchy in GCP?
 
 to enable API's for several services we use gcloud account and enable the api's for the services.
 
-<img width="1056" height="893" alt="image" src="https://github.com/user-attachments/assets/d0b6d3b6-59cc-4624-a89b-8e093b53e1fe" />
+
+
+<img width="1911" height="970" alt="image" src="https://github.com/user-attachments/assets/47f98bca-24ea-4ade-8c44-83a41ef3a7db" />
+
 
